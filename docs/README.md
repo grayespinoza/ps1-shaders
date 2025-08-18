@@ -7,6 +7,7 @@
 ## Dependencies
 **Required**:
 - Iris Shaders ([GitHub](https://github.com/IrisShaders/Iris)) ([Modrinth](https://modrinth.com/mod/iris))
+- Sodium ([GitHub](https://github.com/CaffeineMC/sodium)) ([Modrinth](https://modrinth.com/mod/sodium))
 
 ## Downloads
 [![GitHub](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/github_vector.svg)](https://github.com/grayespinoza/ps1-shaders/releases)

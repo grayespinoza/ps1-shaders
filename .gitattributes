@@ -1,0 +1,4 @@
+/**             export-ignore
+/shaders/**     !export-ignore
+/COPYING        !export-ignore
+/COPYING.LESSER !export-ignore

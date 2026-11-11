@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "uniforms": [],
+  "samplers": {
+    "lightmap": "sampler2D"
+  },
+  "opaqueDrawBuffers": [0],
+  "translucentDrawBuffers": [0]
+}
